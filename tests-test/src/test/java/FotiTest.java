@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.MatcherAssert.assertThat;
 
-public class Fotitest {
+public class FotiTest {
     @Test
         public void TestCalcilyation2Sum() {
         calculyator calculyator = new calculyator();
